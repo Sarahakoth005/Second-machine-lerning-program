@@ -1,5 +1,5 @@
 # Second-machine-learning-program
-Use of random forest model for prediction
+# RANDOM FOREST MODEL
 
 The (random forest) algorithm establishes the outcome based on the predictions of the decision trees. It predicts by taking the average or mean of the output from various trees. Increasing the number of trees increases the precision of the outcome.
 
