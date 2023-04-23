@@ -1,2 +1,2 @@
-# Second-machine-lerning-program
+# Second-machine-learning-program
 I used random forest for prediction
